@@ -1,2 +1,2 @@
 some text
-Fixed text
+somebody changed this line
