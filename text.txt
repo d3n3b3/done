@@ -1,2 +1,3 @@
 some text
-somebody changed this line
+Another text
+Final text
